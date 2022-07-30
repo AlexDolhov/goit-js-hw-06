@@ -22,7 +22,7 @@ refs.buttonDesrtoyEl.addEventListener("click", () => {
 });
 
 function createBoxes(amount) {
-  let boxSize = 30;
+  let boxSize = 20;
 
   for (let i = 0; i < amount; i++) {
     boxSize += 10;
